@@ -1,7 +1,7 @@
 publiccodeYmlVersion: "0.1"
 
-name: "Bevragen Ingeschreven Personen (BRP) API"
-url: "https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen"
+name: "Besluiten Registratie Component (BRC) API"
+url: "https://github.com/VNG-Realisatie/gemma-zaken"
 releaseDate: "2020-09-01"
 
 softwareType: standalone/backend
@@ -18,9 +18,9 @@ developmentStatus: beta
 description:
   nl:
     shortDescription: "Een API om een Besluiten API (BRC) te benaderen."
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
   en:
     shortDescription: "An API to perform request on a decision register (BRC)"
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
