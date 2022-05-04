@@ -1,6 +1,6 @@
 {
   "openapi": "3.0.0",
-  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/ztc/1.1.x/openapi.yaml",
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml",
   "schemas": {
     "Besluit":[
       {
