@@ -5,11 +5,12 @@
     "Besluit":[
       {
         "properties": {
+          "id": "9cef5bca-1a18-40a5-9777-fbeb0377cdfb",
           "url": "http://example.com",
           "identificatie": "string",
           "verantwoordelijkeOrganisatie": "string",
-          "besluittype": "http://example.com",
-          "zaak": "http://example.com",
+          "besluittype": "http://localhost/api/besluittypen/6d922ba8-be5e-47cb-adb1-0215335ec918",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "datum": "2019-08-24",
           "toelichting": "string",
           "bestuursorgaan": "string",
@@ -27,8 +28,8 @@
       {
         "properties": {
           "url": "http://example.com",
-          "informatieobject": "http://example.com",
-          "besluit": "http://example.com"
+          "informatieobject": "http://localhost/api/enkelvoudiginformatieobjecten/9b9c8cab-d3d8-44b3-984e-b5bfffc69b27",
+          "besluit": "http://localhost/api/9cef5bca-1a18-40a5-9777-fbeb0377cdfb"
         }
       }
     ]
