@@ -25,9 +25,10 @@
     ],
     "BesluitInformatieObject":[
       {
-        "url": "http://example.com",
-        "informatieobject": "http://example.com",
-        "besluit": "http://example.com"
+        "properties": {
+          "url": "http://example.com",
+          "informatieobject": "http://example.com",
+          "besluit": "http://example.com"
       }
     ]
   }
