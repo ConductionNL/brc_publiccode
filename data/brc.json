@@ -23,12 +23,13 @@
         }
       }
     ],
-    "BesluitInformatieObject":[
+    "BesluitInformatieObject": [
       {
         "properties": {
           "url": "http://example.com",
           "informatieobject": "http://example.com",
           "besluit": "http://example.com"
+        }
       }
     ]
   }
