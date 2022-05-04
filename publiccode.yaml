@@ -20,7 +20,9 @@ description:
     shortDescription: "Een API om een Besluiten API (BRC) te benaderen."
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/brc_publiccode/main/data/brc.json'
   en:
     shortDescription: "An API to perform request on a decision register (BRC)"
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/brc/1.1.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/brc_publiccode/main/data/brc.json'
