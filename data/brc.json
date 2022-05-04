@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.0",
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/ztc/1.1.x/openapi.yaml",
+  "schemas": {
+    "Besluit":[
+      {
+        "properties": {
+          "url": "http://example.com",
+          "identificatie": "string",
+          "verantwoordelijkeOrganisatie": "string",
+          "besluittype": "http://example.com",
+          "zaak": "http://example.com",
+          "datum": "2019-08-24",
+          "toelichting": "string",
+          "bestuursorgaan": "string",
+          "ingangsdatum": "2019-08-24",
+          "vervaldatum": "2019-08-24",
+          "vervalreden": "tijdelijk",
+          "vervalredenWeergave": "string",
+          "publicatiedatum": "2019-08-24",
+          "verzenddatum": "2019-08-24",
+          "uiterlijkeReactiedatum": "2019-08-24"
+        }
+      }
+    ],
+    "BesluitInformatieObject":[
+      {
+        "url": "http://example.com",
+        "informatieobject": "http://example.com",
+        "besluit": "http://example.com"
+      }
+    ]
+  }
+}
